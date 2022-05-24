@@ -19,16 +19,17 @@ body {
 }
 
 .controls {
-    display: flex; 
+    display: flex;
 }
 
 .controls > input {
-    width: 60%; 
+    width: 80%; 
+    margin-top: 50px; 
 }
 
 .controls > label {
     width: 35%; 
     color: white; 
-    font-size: 15px; 
-
+    font-size: 75px; 
+    margin-top: 25px; 
 }
